@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋の予感から",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T03:47:21.964242Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋の予感から",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_恋の予感から_レミオロメン.txt"
+    }
+  ]
+}
